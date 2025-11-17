@@ -35,7 +35,7 @@ def exp(a, b):
 def logarithm(a, b):
     if a <= 0 or b <= 0:
         raise ValueError
-    math.log(b, a)
+    return math.log(b, a)
 
 
 
