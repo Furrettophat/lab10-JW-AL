@@ -1,3 +1,7 @@
+#https://github.com/Furrettophat/lab10-JW-AL
+#Partner 1: John Weed
+#Partner 2: Ashton Lakey
+
 import math
 
 def square_root(a):
